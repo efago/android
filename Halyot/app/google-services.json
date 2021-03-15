@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "156734247160",
+    "firebase_url": "https://halyot-64f36.firebaseio.com",
+    "project_id": "halyot-64f36",
+    "storage_bucket": "halyot-64f36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156734247160:android:611bba8f583d1ab17d2b0d",
+        "android_client_info": {
+          "package_name": "com.efrem.halyot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156734247160-uf152cn2ngpesndomt4709ht9v0fc99k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.efrem.halyot",
+            "certificate_hash": "5b19d21b344598b190e84b63ceb71189d77ef988"
+          }
+        },
+        {
+          "client_id": "156734247160-bonph3l20slgj2v4lqfvca90mrl9h6lg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXOLktuXLg_nAbq2YCJjafeR9EvP8G03w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156734247160-bonph3l20slgj2v4lqfvca90mrl9h6lg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
