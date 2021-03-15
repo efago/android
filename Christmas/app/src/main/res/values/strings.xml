@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Christmas</string>
+    <string name="not_supported">Speech input is not supported by your device</string>
+    <string name="tap_mic_to_talk">Tap mic to talk</string>
+    <string name="user_tap">User taps on this ImageView to start speech input</string>
+    <string name="tts_not_supported">Text to speech is not supported on this device</string>
+    <string name="no_match">No match found</string>
+</resources>
